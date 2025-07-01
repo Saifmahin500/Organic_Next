@@ -77,6 +77,14 @@ body {
     background-color: #FAD56A;
 }
 
+.order-btn{
+    border: 1px solid #006400;
+    border-radius: 25px;
+}
+.order-btn:hover{
+    background-color: #FAD165;
+}
+
 .three_img12 {
     width: 300px;
     height: 160px;
